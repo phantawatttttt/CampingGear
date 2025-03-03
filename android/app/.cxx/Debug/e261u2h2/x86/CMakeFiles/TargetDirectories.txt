@@ -1,0 +1,2 @@
+D:/AAA/android/app/.cxx/Debug/e261u2h2/x86/CMakeFiles/edit_cache.dir
+D:/AAA/android/app/.cxx/Debug/e261u2h2/x86/CMakeFiles/rebuild_cache.dir
